@@ -1,5 +1,7 @@
 this code has been tested to work on python 3.10. 
+
 download for mac and windows here: https://www.python.org/downloads/release/python-3100/
+
 recommended usage instructions:
 1. create a folder and put the script in it
 2. copy the path of the folder
