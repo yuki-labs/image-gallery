@@ -19,3 +19,7 @@ recommended usage instructions:
 14. paste it in after the path from step 12
 15. run the command
 16. copy the url displayed and paste it into your browser of choice
+
+examples:
+![image](https://github.com/user-attachments/assets/3177ceca-5125-43ac-9485-b7e821c6b43b)
+![image](https://github.com/user-attachments/assets/da815f6c-4828-4100-8f08-c89743f46c41)
